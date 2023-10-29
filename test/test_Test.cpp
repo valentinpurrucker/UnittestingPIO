@@ -2,7 +2,7 @@
 
 void testA()
 {
-    TEST_ASSERT_TRUE((1 + 1) == 3);
+    TEST_ASSERT_TRUE((1 + 1) == 2);
 }
 
 int main()
