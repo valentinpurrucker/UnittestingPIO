@@ -4,6 +4,7 @@ int myFunction(int x, int y) {
   return x + y;
 }
 
+
 void setup() {
   // put your setup code here, to run once:
   int result = myFunction(2, 3);
