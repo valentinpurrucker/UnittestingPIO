@@ -1,6 +1,6 @@
 name: PlatformIO CI Unittest
 
-on: [push]
+on: [pull_request]
 
 jobs:
   build:
