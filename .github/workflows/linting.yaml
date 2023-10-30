@@ -33,6 +33,6 @@ jobs:
       - name: Lint code
         run: |
           cpplint --repository=. --recursive \
-            --filter=+build/c++11,-runtime/,+readability/braces,\
-            -readability/todo,-legal,-build/include \
-            include lib src test
+          --filter=+build/c++11,-runtime/,+readability/braces,\
+          -readability/todo,-legal,-build/include \
+          include lib src test
