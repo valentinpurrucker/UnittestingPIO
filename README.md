@@ -1,5 +1,5 @@
 Testing
-[![example workflow](https://github.com/valentinpurrucker/UnittestingPIO/actions/workflows/unittest.yaml/badge.svg)]
+[![example workflow](https://github.com/valentinpurrucker/UnittestingPIO/actions/workflows/unittest.yaml/badge.svg)](https://github.com/valentinpurrucker/UnittestingPIO/actions/workflows/unittest.yaml/badge.svg)
 
 [![Static Badge](https://img.shields.io/badge/Espressif-ESP8266-E8362D?logo=espressif&logoColor=white&labelColor=%23000)]
 
