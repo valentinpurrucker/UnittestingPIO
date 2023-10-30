@@ -1,23 +1,22 @@
 name: PlatformIO CI Linting
 
 on:
-
    push:
     branches:
         - main 
     paths:
-        - "./src"
-        - "./test"
-        - "./include"
-        - "./lib"
+        - "src"
+        - "test"
+        - "include"
+        - "lib"
    pull_request:
     branches:
         - main
     paths:
-        - "./src"
-        - "./test"
-        - "./include"
-        - "./lib"
+        - "src"
+        - "test"
+        - "include"
+        - "lib"
 
 
 jobs:
