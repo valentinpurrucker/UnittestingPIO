@@ -1,6 +1,8 @@
 Testing
 ![example workflow](https://github.com/valentinpurrucker/UnittestingPIO/actions/workflows/unittest.yaml/badge.svg)
 
+![Static Badge](https://img.shields.io/badge/Espressif-ESP8266-E8362D?logo=espressif&logoColor=white&labelColor=%23000)
+
 
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/valentinpurrucker/UnittestingPIO/linting.yaml?logo=cplusplus&label=cpplint&labelColor=%2300599C)
 
