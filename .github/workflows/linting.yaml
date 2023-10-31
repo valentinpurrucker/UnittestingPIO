@@ -16,6 +16,8 @@ on:
         - "**.c"
         - "**.h"
 
+   workflow_dispatch:
+
 
 jobs:
   build:
